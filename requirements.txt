@@ -1,0 +1,10 @@
+aiogram==3.31.0
+openai>=1.50
+python-dotenv>=1.0
+requests>=2.32
+rapidfuzz==3.14.5
+
+# Israeli supermarket price transparency data (grocery source).
+# Not on PyPI under stable names -- installed straight from GitHub.
+il-supermarket-scraper @ git+https://github.com/OpenIsraeliSupermarkets/israeli-supermarket-scarpers.git
+il-supermarket-parser @ git+https://github.com/OpenIsraeliSupermarkets/israeli-supermarket-parsers.git
