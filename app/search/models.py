@@ -27,3 +27,9 @@ class PriceResult:
     city: str | None
     source: str  # "grocery" or "web"
     url: str | None = None
+    # Whether the presence of a physical branch in `city` is actually backed
+    # by evidence (an address/branch mention), as opposed to just being where
+    # the user asked to search. Grocery data comes from real per-branch
+    # records, so it's always verified; web results default to unverified
+    # until the extraction step confirms a branch.
+    location_verified: bool = True

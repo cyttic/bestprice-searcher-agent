@@ -35,16 +35,26 @@ as "אפשר לקנות באתר: <link>" or similar rather than implying it's a
 product link.
 - If a result came from a web search rather than verified store data, keep it \
 but don't overstate certainty (say something like "according to <site>").
-- If there are no results, say so plainly and suggest the user try a \
+- Each result is marked as either "location confirmed" or "location NOT \
+confirmed" for the requested city. If a city was requested: present \
+"confirmed" results first and clearly as being in that city; for "NOT \
+confirmed" results, never state or imply they have a branch in the \
+requested city - present them as online/nationwide options instead (e.g. \
+"זמין אונליין, לא מאומת סניף ב<city>"). If there are zero "confirmed" \
+results for the requested city, say so explicitly up front (e.g. "לא מצאתי \
+סניף מאומת באילת") before listing the nationwide/online alternatives.
+- If there are no results at all, say so plainly and suggest the user try a \
 different phrasing, product name, or city.
-- Do not invent prices, stores, or links that are not in the provided data.
+- Do not invent prices, stores, links, or branch locations that are not in \
+the provided data.
 - Keep it concise: a short intro line, the list, and nothing else.
 """
 
 WEB_EXTRACTION_SYSTEM_PROMPT = """\
 You extract product price listings from raw web search results for a \
 price-comparison bot operating in Israel. You will be given the user's \
-product query and a list of web search results (title, url, content snippet).
+product query, a requested city (or "any"), and a list of web search results \
+(title, url, content snippet).
 
 Return a JSON object with a single field "results", a list of objects, each \
 with:
@@ -52,8 +62,20 @@ with:
 - "price": number (ILS only; convert or skip if currency is not ILS/₪ and \
 unclear)
 - "store_name": string (the retailer/site name)
-- "city": string or null (only if a specific branch/location is mentioned)
+- "city": string or null
+- "location_verified": boolean
 - "url": string (the source url)
+
+Critical rule about "city" and "location_verified": a store merely being \
+found while searching for a city, or a store shipping/delivering nationwide, \
+is NOT evidence of a physical branch there. Only set "city" to the requested \
+city AND "location_verified" to true when a search result explicitly names a \
+branch/store/pickup point in that city (an address, "סניף <city>", a \
+branch-locator listing, etc.). If the source is a generic online store or \
+national listing with no explicit branch/pickup evidence for the requested \
+city, still include the result (it may be useful nationwide or via delivery) \
+but set "city" to null and "location_verified" to false. Never guess a city \
+is covered just because the user asked about it.
 
 Only include listings where you are reasonably confident of an actual price \
 for the requested product. Skip vague or unrelated results. If nothing \

@@ -28,11 +28,24 @@ def search_general(product: str, city: str | None, limit: int = 8) -> list[Price
     if not product or not config.tavily_api_key:
         return []
 
-    location = f" ב{city}" if city else ""
-    query = f"מחיר {product}{location} קניה בישראל"
+    queries = [f"מחיר {product} קניה בישראל"]
+    if city:
+        # A separate, branch-focused query biases results toward pages that
+        # actually name a physical branch/pickup point in the city, rather
+        # than pages that merely rank for the city name.
+        queries.append(f"{product} סניף {city} כתובת")
 
+    web_results: list[dict] = []
+    seen_urls: set[str] = set()
     try:
-        web_results = _web_search(query, max_results=limit)
+        for q in queries:
+            for r in _web_search(q, max_results=limit):
+                url = r.get("url")
+                if url and url in seen_urls:
+                    continue
+                if url:
+                    seen_urls.add(url)
+                web_results.append(r)
     except requests.RequestException:
         return []
 
@@ -66,6 +79,7 @@ def search_general(product: str, city: str | None, limit: int = 8) -> list[Price
                 city=item.get("city"),
                 source="web",
                 url=item.get("url"),
+                location_verified=bool(item.get("location_verified", False)),
             )
         )
 

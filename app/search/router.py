@@ -21,7 +21,12 @@ def find_prices(parsed: ParsedQuery) -> list[PriceResult]:
     if parsed.max_price is not None:
         results = [r for r in results if r.price <= parsed.max_price]
 
-    results.sort(key=lambda r: r.price)
+    if parsed.city:
+        # Put results with a confirmed branch in the requested city first;
+        # cheapest-first within each group.
+        results.sort(key=lambda r: (not r.location_verified, r.price))
+    else:
+        results.sort(key=lambda r: r.price)
     return results
 
 
@@ -36,8 +41,11 @@ def handle_message(text: str) -> str:
     lines = []
     for r in results:
         location = f", {r.city}" if r.city else ""
+        verified_note = ""
+        if parsed.city:
+            verified_note = " (location confirmed)" if r.location_verified else " (location NOT confirmed)"
         link_note = f" [{r.url}]" if r.url else ""
-        lines.append(f"{r.store_name}{location}: ₪{r.price:.2f}{link_note}")
+        lines.append(f"{r.store_name}{location}: ₪{r.price:.2f}{verified_note}{link_note}")
 
     user_prompt = (
         f"User's original message: {text}\n"
