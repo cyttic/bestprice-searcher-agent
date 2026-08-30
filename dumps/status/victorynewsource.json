@@ -1,0 +1,667 @@
+{
+    "_metadata": {
+        "last_modified": "2026-08-30T15:35:56.761450+03:00"
+    },
+    "events": [
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:54.237904+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-089-20260830-150816",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-089-20260830-150816.gz",
+            "size": 571105
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:54.240600+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-074-20260830-150744",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-074-20260830-150744.gz",
+            "size": 540364
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:54.243101+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-070-20260830-150721",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-070-20260830-150721.gz",
+            "size": 532090
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:54.245669+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-079-20260830-150716",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-079-20260830-150716.gz",
+            "size": 499159
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:54.248454+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-095-20260830-150701",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-095-20260830-150701.gz",
+            "size": 540887
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:54.251282+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-089-20260830-150816",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-089-20260830-150816.gz"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:54.253776+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-074-20260830-150744",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-074-20260830-150744.gz"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:54.263081+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-070-20260830-150721",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-070-20260830-150721.gz"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:54.266145+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-079-20260830-150716",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-079-20260830-150716.gz"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:54.275664+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-095-20260830-150701",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-095-20260830-150701.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.037316+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-070-20260830-150721",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.038838+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-086-20260830-150659",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-086-20260830-150659.gz",
+            "size": 453632
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.039833+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-086-20260830-150659",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-086-20260830-150659.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.052833+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-095-20260830-150701",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.054112+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-077-20260830-150650",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-077-20260830-150650.gz",
+            "size": 562145
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.054794+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-077-20260830-150650",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-077-20260830-150650.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.056952+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-079-20260830-150716",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.058504+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-068-20260830-150641",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-068-20260830-150641.gz",
+            "size": 551178
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.059710+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-068-20260830-150641",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-068-20260830-150641.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.074363+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-074-20260830-150744",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.076244+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-052-20260830-150634",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-052-20260830-150634.gz",
+            "size": 542218
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.077044+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-052-20260830-150634",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-052-20260830-150634.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.095418+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-089-20260830-150816",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.097013+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-055-20260830-150633",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-055-20260830-150633.gz",
+            "size": 536043
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.097821+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-055-20260830-150633",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-055-20260830-150633.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.469304+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-086-20260830-150659",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.471100+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-065-20260830-150632",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-065-20260830-150632.gz",
+            "size": 417576
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.471966+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-065-20260830-150632",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-065-20260830-150632.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.578285+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-068-20260830-150641",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.580394+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-054-20260830-150624",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-054-20260830-150624.gz",
+            "size": 437094
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.581241+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-054-20260830-150624",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-054-20260830-150624.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.600642+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-077-20260830-150650",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.602808+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-009-20260830-150619",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-009-20260830-150619.gz",
+            "size": 463104
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.604088+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-009-20260830-150619",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-009-20260830-150619.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.605175+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-052-20260830-150634",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.607922+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-046-20260830-150613",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-046-20260830-150613.gz",
+            "size": 509153
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.608961+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-046-20260830-150613",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-046-20260830-150613.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.637543+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-055-20260830-150633",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.640457+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-071-20260830-150613",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-071-20260830-150613.gz",
+            "size": 518512
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.641980+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-071-20260830-150613",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-071-20260830-150613.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.850528+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-065-20260830-150632",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.853431+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-041-20260830-150612",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-041-20260830-150612.gz",
+            "size": 464465
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.854436+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-041-20260830-150612",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-041-20260830-150612.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:55.978846+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-046-20260830-150613",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:55.981001+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-073-20260830-150603",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-073-20260830-150603.gz",
+            "size": 448204
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:55.982086+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-073-20260830-150603",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-073-20260830-150603.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:56.076232+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-009-20260830-150619",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:56.079287+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-034-20260830-150602",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-034-20260830-150602.gz",
+            "size": 537722
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:56.080680+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-034-20260830-150602",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-034-20260830-150602.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:56.090276+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-054-20260830-150624",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:56.092548+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-030-20260830-150551",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-030-20260830-150551.gz",
+            "size": 454256
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:56.093829+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-030-20260830-150551",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-030-20260830-150551.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:56.131990+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-071-20260830-150613",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:56.134694+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-091-20260830-150550",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-091-20260830-150550.gz",
+            "size": 555724
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:56.136200+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-091-20260830-150550",
+            "link_collected": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-091-20260830-150550.gz"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:56.443573+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-073-20260830-150603",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:56.446349+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-028-20260830-150547",
+            "link": "https://laibcatalog.co.il/webapi/7290696200003/Price7290696200003-001-028-20260830-150547.gz",
+            "size": 558510
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:56.514823+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-030-20260830-150551",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:56.565435+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-034-20260830-150602",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:56.591584+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-091-20260830-150550",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:56.729981+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "file_name": "Price7290696200003-001-041-20260830-150612",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        }
+    ],
+    "global_status": [
+        {
+            "status": "started",
+            "system_timestamp": "2026-08-30 15:35:53.855365+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "limit": 20,
+            "files_requested": [
+                "PRICE_FILE",
+                "STORE_FILE"
+            ],
+            "store_id": null,
+            "files_names_to_scrape": null,
+            "when_date": null,
+            "filter_null": false,
+            "filter_zero": false
+        },
+        {
+            "status": "estimated_size",
+            "system_timestamp": "2026-08-30 15:35:56.754036+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d",
+            "folder_size": {
+                "size": 149.2133264541626,
+                "unit": "MB",
+                "folder": "data/dumps/VictoryNewSource",
+                "folder_content": [
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-041-20260830-150612.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-065-20260830-150632.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-055-20260830-150633.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-086-20260830-150659.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-095-20260830-150701.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-054-20260830-150624.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-046-20260830-150613.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-089-20260830-150816.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-070-20260830-150721.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-091-20260830-150550.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-073-20260830-150603.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-068-20260830-150641.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-079-20260830-150716.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-052-20260830-150634.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-074-20260830-150744.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-071-20260830-150613.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-009-20260830-150619.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-034-20260830-150602.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-077-20260830-150650.xml",
+                    "data/dumps/VictoryNewSource/Price7290696200003-001-030-20260830-150551.xml"
+                ]
+            },
+            "completed_successfully": true
+        }
+    ],
+    "verified_downloads": [
+        {
+            "file_name": "Price7290696200003-001-070-20260830-150721",
+            "system_timestamp": "2026-08-30 15:35:55.038075+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-095-20260830-150701",
+            "system_timestamp": "2026-08-30 15:35:55.053458+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-079-20260830-150716",
+            "system_timestamp": "2026-08-30 15:35:55.057696+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-074-20260830-150744",
+            "system_timestamp": "2026-08-30 15:35:55.075351+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-089-20260830-150816",
+            "system_timestamp": "2026-08-30 15:35:55.096201+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-086-20260830-150659",
+            "system_timestamp": "2026-08-30 15:35:55.470252+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-068-20260830-150641",
+            "system_timestamp": "2026-08-30 15:35:55.579507+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-077-20260830-150650",
+            "system_timestamp": "2026-08-30 15:35:55.601764+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-052-20260830-150634",
+            "system_timestamp": "2026-08-30 15:35:55.606933+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-055-20260830-150633",
+            "system_timestamp": "2026-08-30 15:35:55.639060+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-065-20260830-150632",
+            "system_timestamp": "2026-08-30 15:35:55.851682+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-046-20260830-150613",
+            "system_timestamp": "2026-08-30 15:35:55.979966+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-009-20260830-150619",
+            "system_timestamp": "2026-08-30 15:35:56.078001+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-054-20260830-150624",
+            "system_timestamp": "2026-08-30 15:35:56.091401+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-071-20260830-150613",
+            "system_timestamp": "2026-08-30 15:35:56.133290+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-073-20260830-150603",
+            "system_timestamp": "2026-08-30 15:35:56.445093+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-030-20260830-150551",
+            "system_timestamp": "2026-08-30 15:35:56.516697+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-034-20260830-150602",
+            "system_timestamp": "2026-08-30 15:35:56.566941+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-091-20260830-150550",
+            "system_timestamp": "2026-08-30 15:35:56.592982+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        },
+        {
+            "file_name": "Price7290696200003-001-041-20260830-150612",
+            "system_timestamp": "2026-08-30 15:35:56.738787+03:00",
+            "task_id": "3bfbeba1-ae69-4966-b3a6-e1210b17bf6d"
+        }
+    ]
+}

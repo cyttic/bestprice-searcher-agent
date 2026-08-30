@@ -3,6 +3,7 @@ import os
 from rapidfuzz import fuzz
 
 from app.config import config
+from app.search.chain_links import get_chain_url
 from app.search.models import PriceResult
 from etl import db
 from etl.cities import normalize_city
@@ -25,7 +26,7 @@ def search_grocery(product: str, city: str | None, limit: int = 10) -> list[Pric
 
     query = f"""
         SELECT items.item_name, items.price, items.unit_of_measure,
-               stores.store_name, stores.chain_name, stores.city
+               stores.store_name, stores.chain_name, stores.chain_code, stores.city
         FROM items
         JOIN stores ON items.chain_id = stores.chain_id AND items.store_id = stores.store_id
         WHERE {like_clauses}
@@ -62,6 +63,7 @@ def search_grocery(product: str, city: str | None, limit: int = 10) -> list[Pric
                 else row["store_name"],
                 city=row["city"],
                 source="grocery",
+                url=get_chain_url(row["chain_code"]),
             )
         )
         if len(results) >= limit:

@@ -36,8 +36,8 @@ def handle_message(text: str) -> str:
     lines = []
     for r in results:
         location = f", {r.city}" if r.city else ""
-        source_note = f" [{r.url}]" if r.source == "web" and r.url else ""
-        lines.append(f"{r.store_name}{location}: ₪{r.price:.2f}{source_note}")
+        link_note = f" [{r.url}]" if r.url else ""
+        lines.append(f"{r.store_name}{location}: ₪{r.price:.2f}{link_note}")
 
     user_prompt = (
         f"User's original message: {text}\n"

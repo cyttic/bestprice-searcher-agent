@@ -79,6 +79,7 @@ def load_stores(chain: str, db_path: str) -> int:
             {
                 "chain_id": str(chain_id),
                 "store_id": str(store_id),
+                "chain_code": chain,
                 "chain_name": row.get("chainname"),
                 "store_name": row.get("storename"),
                 "address": row.get("address"),

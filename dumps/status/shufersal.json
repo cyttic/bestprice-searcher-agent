@@ -1,0 +1,667 @@
+{
+    "_metadata": {
+        "last_modified": "2026-08-30T15:35:52.222509+03:00"
+    },
+    "events": [
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:49.625316+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-001-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-001-20260830-150000.gz?sv=2014-02-14&sr=b&sig=LzJM9x2Q60WTKboNwBEbed%2FQAdVEyhrWykgcPDVNFb4%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 936.0
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:49.627525+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-002-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-002-20260830-150000.gz?sv=2014-02-14&sr=b&sig=eVDltV%2FxbC4dwTCf5ehmu4q3VOvQZhsP4nbjLbkq2lE%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 754.0
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:49.630158+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-003-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-003-20260830-150000.gz?sv=2014-02-14&sr=b&sig=82QI5Vf6Z2D6IrlCkGcbRRSvkG%2FBknxRuGga5UssZkY%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 744.0
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:49.632354+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-004-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-004-20260830-150000.gz?sv=2014-02-14&sr=b&sig=B%2FLegsMVA0jpSBJs4aoWqUy%2FFqz38H5ZQ1%2Fvd6eFlnk%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 689.0
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:49.634421+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-005-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-005-20260830-150000.gz?sv=2014-02-14&sr=b&sig=fTSBaHbz0IPrAiO7%2FKn3C0gXlrxPotZPhpfJmvu3DAc%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 493.0
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:49.637292+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-001-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-001-20260830-150000.gz?sv=2014-02-14&sr=b&sig=LzJM9x2Q60WTKboNwBEbed%2FQAdVEyhrWykgcPDVNFb4%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:49.648997+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-002-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-002-20260830-150000.gz?sv=2014-02-14&sr=b&sig=eVDltV%2FxbC4dwTCf5ehmu4q3VOvQZhsP4nbjLbkq2lE%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:49.655838+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-003-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-003-20260830-150000.gz?sv=2014-02-14&sr=b&sig=82QI5Vf6Z2D6IrlCkGcbRRSvkG%2FBknxRuGga5UssZkY%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:49.662815+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-004-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-004-20260830-150000.gz?sv=2014-02-14&sr=b&sig=B%2FLegsMVA0jpSBJs4aoWqUy%2FFqz38H5ZQ1%2Fvd6eFlnk%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:49.669496+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-005-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-005-20260830-150000.gz?sv=2014-02-14&sr=b&sig=fTSBaHbz0IPrAiO7%2FKn3C0gXlrxPotZPhpfJmvu3DAc%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:50.374225+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-001-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:50.380369+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-002-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:50.385543+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-007-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-007-20260830-150000.gz?sv=2014-02-14&sr=b&sig=DOS2w7VGuWxhZxxDMj%2FFer%2BzUKdIucs4L7z%2FCsYbOew%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 932.0
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:50.388431+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-009-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-009-20260830-150000.gz?sv=2014-02-14&sr=b&sig=gN4KSOhgedv1456TB2RlLv2LIUBSlr6M3yvG9kEv3q0%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 594.0
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:50.392079+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-007-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-007-20260830-150000.gz?sv=2014-02-14&sr=b&sig=DOS2w7VGuWxhZxxDMj%2FFer%2BzUKdIucs4L7z%2FCsYbOew%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:50.395167+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-009-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-009-20260830-150000.gz?sv=2014-02-14&sr=b&sig=gN4KSOhgedv1456TB2RlLv2LIUBSlr6M3yvG9kEv3q0%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:50.406233+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-003-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:50.416418+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-005-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:50.422583+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-004-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:50.429064+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-011-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-011-20260830-150000.gz?sv=2014-02-14&sr=b&sig=fE3uBuVTYz5zuQ9DvD2A90ETnlijNHimlewHvKtbFmo%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 568.0
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:50.432715+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-017-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-017-20260830-150000.gz?sv=2014-02-14&sr=b&sig=Crqpl4VNdk5pWfpLXhsry7esVC6JgkqX6SrEMW48UZA%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 529.0
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:50.436345+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-019-20260829-010000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-019-20260829-010000.gz?sv=2014-02-14&sr=b&sig=aFCUlKKEGAQqfG2MFyjzPPdBGbaaR2K5pJUtuJ1MzzY%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 1904.64
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:50.440268+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-011-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-011-20260830-150000.gz?sv=2014-02-14&sr=b&sig=fE3uBuVTYz5zuQ9DvD2A90ETnlijNHimlewHvKtbFmo%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:50.444114+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-017-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-017-20260830-150000.gz?sv=2014-02-14&sr=b&sig=Crqpl4VNdk5pWfpLXhsry7esVC6JgkqX6SrEMW48UZA%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:50.451990+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-019-20260829-010000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-019-20260829-010000.gz?sv=2014-02-14&sr=b&sig=aFCUlKKEGAQqfG2MFyjzPPdBGbaaR2K5pJUtuJ1MzzY%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:50.815490+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-007-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:50.824366+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-020-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-020-20260830-150000.gz?sv=2014-02-14&sr=b&sig=MsNhl%2FStyXfGyWDnP3FdWvcgKgmDG44fne6GeS5yfsY%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 590.0
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:50.829483+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-020-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-020-20260830-150000.gz?sv=2014-02-14&sr=b&sig=MsNhl%2FStyXfGyWDnP3FdWvcgKgmDG44fne6GeS5yfsY%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:50.837140+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-009-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:50.846612+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-022-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-022-20260830-150000.gz?sv=2014-02-14&sr=b&sig=Irrv2Gelq1z4slfB%2Fre5tNqwXi8PhBPTizPXARfopLY%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 667.0
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:50.851547+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-022-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-022-20260830-150000.gz?sv=2014-02-14&sr=b&sig=Irrv2Gelq1z4slfB%2Fre5tNqwXi8PhBPTizPXARfopLY%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:50.892216+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-011-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:50.902092+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-023-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-023-20260830-150000.gz?sv=2014-02-14&sr=b&sig=xyi%2Bn0uwGqomjtYAvqp2qFkWQldqpN9b54qt2WAWGds%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 493.0
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:50.907741+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-023-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-023-20260830-150000.gz?sv=2014-02-14&sr=b&sig=xyi%2Bn0uwGqomjtYAvqp2qFkWQldqpN9b54qt2WAWGds%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:50.928989+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-017-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:50.939278+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-019-20260829-010000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:50.949126+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-024-20260829-010000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-024-20260829-010000.gz?sv=2014-02-14&sr=b&sig=icNpvF1MjwxJcUcvZ8ipquf2%2FmLiWv%2FoeSojZdvrVe8%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 1351.68
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:50.954993+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-027-20260829-010000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-027-20260829-010000.gz?sv=2014-02-14&sr=b&sig=5fzke92swuthZRUii14nlnjockQoo3N8zDLSk0BJZFU%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 1556.48
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:50.960508+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-024-20260829-010000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-024-20260829-010000.gz?sv=2014-02-14&sr=b&sig=icNpvF1MjwxJcUcvZ8ipquf2%2FmLiWv%2FoeSojZdvrVe8%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:50.965924+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-027-20260829-010000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-027-20260829-010000.gz?sv=2014-02-14&sr=b&sig=5fzke92swuthZRUii14nlnjockQoo3N8zDLSk0BJZFU%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:51.452117+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-020-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:51.462782+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-028-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-028-20260830-150000.gz?sv=2014-02-14&sr=b&sig=fgEe5G6r2%2F%2B%2B7c5Ta9fkvKbwLA04nP%2BV%2BMQPBwo2zkE%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 637.0
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:51.468549+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-028-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-028-20260830-150000.gz?sv=2014-02-14&sr=b&sig=fgEe5G6r2%2F%2B%2B7c5Ta9fkvKbwLA04nP%2BV%2BMQPBwo2zkE%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:51.513518+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-022-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:51.524977+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-030-20260829-010000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-030-20260829-010000.gz?sv=2014-02-14&sr=b&sig=%2F1hWMMuD3UMYH2b7D2sinQhKTxUbiow%2BUXYT4rJK9hk%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 1259.52
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:51.537110+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-030-20260829-010000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-030-20260829-010000.gz?sv=2014-02-14&sr=b&sig=%2F1hWMMuD3UMYH2b7D2sinQhKTxUbiow%2BUXYT4rJK9hk%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:51.561472+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-023-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:51.568196+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-032-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-032-20260830-150000.gz?sv=2014-02-14&sr=b&sig=yK5X9OkAXMYcOamwPu4dH80%2FXDHSypGEjGJYTNzJlKA%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 745.0
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:51.569310+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-032-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-032-20260830-150000.gz?sv=2014-02-14&sr=b&sig=yK5X9OkAXMYcOamwPu4dH80%2FXDHSypGEjGJYTNzJlKA%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:51.571261+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-027-20260829-010000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:51.573782+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-024-20260829-010000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:51.576040+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-033-20260829-010000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-033-20260829-010000.gz?sv=2014-02-14&sr=b&sig=3gNob8pMl379T40izrVXuMR7UnNL60y8L5gEK%2BS0xyA%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 1740.8
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:51.577146+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-034-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-034-20260830-150000.gz?sv=2014-02-14&sr=b&sig=cie1kFYWaHDoUNtY5blGPp%2BGDdcSeA5bTwU4Sh1T8%2B8%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 687.0
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:51.578287+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-033-20260829-010000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-033-20260829-010000.gz?sv=2014-02-14&sr=b&sig=3gNob8pMl379T40izrVXuMR7UnNL60y8L5gEK%2BS0xyA%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "collected",
+            "system_timestamp": "2026-08-30 15:35:51.579577+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-034-20260830-150000.gz",
+            "link_collected": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-034-20260830-150000.gz?sv=2014-02-14&sr=b&sig=cie1kFYWaHDoUNtY5blGPp%2BGDdcSeA5bTwU4Sh1T8%2B8%3D&se=2026-08-30T13%3A05%3A46Z&sp=r"
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:51.881594+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-028-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "saw",
+            "system_timestamp": "2026-08-30 15:35:51.900117+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-164-20260830-150000.gz",
+            "link": "https://pricesprodpublic.blob.core.windows.net/price/Price7290027600007-001-164-20260830-150000.gz?sv=2014-02-14&sr=b&sig=VLnPRrYe0xcfB%2FxhKz8msQgLOtJeq6POAIVYCLt1xwk%3D&se=2026-08-30T13%3A05%3A46Z&sp=r",
+            "size": 1290.24
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:52.192644+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-030-20260829-010000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:52.210222+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-032-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:52.214341+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-033-20260829-010000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        },
+        {
+            "status": "downloaded",
+            "system_timestamp": "2026-08-30 15:35:52.217557+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "file_name": "Price7290027600007-001-034-20260830-150000.gz",
+            "downloaded_successfully": true,
+            "extracted_successfully": true,
+            "error_message": null,
+            "restart_and_retry": false
+        }
+    ],
+    "global_status": [
+        {
+            "status": "started",
+            "system_timestamp": "2026-08-30 15:35:24.706772+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "limit": 20,
+            "files_requested": [
+                "PRICE_FILE",
+                "STORE_FILE"
+            ],
+            "store_id": null,
+            "files_names_to_scrape": null,
+            "when_date": null,
+            "filter_null": false,
+            "filter_zero": false
+        },
+        {
+            "status": "estimated_size",
+            "system_timestamp": "2026-08-30 15:35:52.221427+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b",
+            "folder_size": {
+                "size": 0.11427879333496094,
+                "unit": "MB",
+                "folder": "data/dumps/Shufersal",
+                "folder_content": [
+                    "data/dumps/Shufersal/Price7290027600007-001-011-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-019-20260829-010000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-030-20260829-010000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-017-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-007-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-002-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-033-20260829-010000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-004-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-023-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-032-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-001-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-009-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-028-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-022-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-005-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-003-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-024-20260829-010000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-020-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-034-20260830-150000.xml",
+                    "data/dumps/Shufersal/Price7290027600007-001-027-20260829-010000.xml"
+                ]
+            },
+            "completed_successfully": true
+        }
+    ],
+    "verified_downloads": [
+        {
+            "file_name": "Price7290027600007-001-001-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:50.377635+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-002-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:50.382810+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-003-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:50.412927+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-005-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:50.419339+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-004-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:50.425626+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-007-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:50.819704+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-009-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:50.841968+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-011-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:50.896661+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-017-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:50.934225+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-019-20260829-010000.gz",
+            "system_timestamp": "2026-08-30 15:35:50.944058+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-020-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:51.457292+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-022-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:51.519011+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-023-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:51.567144+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-027-20260829-010000.gz",
+            "system_timestamp": "2026-08-30 15:35:51.572735+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-024-20260829-010000.gz",
+            "system_timestamp": "2026-08-30 15:35:51.574980+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-028-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:51.890060+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-030-20260829-010000.gz",
+            "system_timestamp": "2026-08-30 15:35:52.194281+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-032-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:52.212837+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-033-20260829-010000.gz",
+            "system_timestamp": "2026-08-30 15:35:52.215971+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        },
+        {
+            "file_name": "Price7290027600007-001-034-20260830-150000.gz",
+            "system_timestamp": "2026-08-30 15:35:52.218932+03:00",
+            "task_id": "35b80e68-7a7c-4cf5-9cf9-3d69c89b221b"
+        }
+    ]
+}

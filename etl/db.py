@@ -5,6 +5,7 @@ SCHEMA = """
 CREATE TABLE IF NOT EXISTS stores (
     chain_id TEXT NOT NULL,
     store_id TEXT NOT NULL,
+    chain_code TEXT,
     chain_name TEXT,
     store_name TEXT,
     address TEXT,
@@ -43,6 +44,10 @@ def connect(db_path: str):
 def init_db(db_path: str) -> None:
     with connect(db_path) as conn:
         conn.executescript(SCHEMA)
+        try:
+            conn.execute("ALTER TABLE stores ADD COLUMN chain_code TEXT")
+        except sqlite3.OperationalError:
+            pass  # already exists, e.g. from a DB built before this column was added
         conn.commit()
 
 
@@ -52,9 +57,10 @@ def upsert_stores(db_path: str, rows: list[dict]) -> None:
     with connect(db_path) as conn:
         conn.executemany(
             """
-            INSERT INTO stores (chain_id, store_id, chain_name, store_name, address, city, city_norm)
-            VALUES (:chain_id, :store_id, :chain_name, :store_name, :address, :city, :city_norm)
+            INSERT INTO stores (chain_id, store_id, chain_code, chain_name, store_name, address, city, city_norm)
+            VALUES (:chain_id, :store_id, :chain_code, :chain_name, :store_name, :address, :city, :city_norm)
             ON CONFLICT(chain_id, store_id) DO UPDATE SET
+                chain_code=excluded.chain_code,
                 chain_name=excluded.chain_name,
                 store_name=excluded.store_name,
                 address=excluded.address,
